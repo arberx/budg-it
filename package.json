@@ -1,8 +1,8 @@
 {
-  "name": "build-your-own-mint",
+  "name": "budgIT",
   "private": true,
   "main": "index.js",
-  "author": "Evan You",
+  "author": "Arber X",
   "license": "MIT",
   "scripts": {
     "test": "node index.js",
